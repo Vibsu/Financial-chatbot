@@ -1,0 +1,521 @@
+ADK005,hi,Yes
+ADK005,how are you,Yes
+ADK005,where you are going,Yes
+ADK005,noncence,Yes
+XOR329,how are you,Yes
+XOR329,how are you,Yes
+XOR329,how are you,Yes
+XOR329,idiat ,Yes
+XOR329,culprit,Yes
+QYK685,hi,Yes
+XKW126,hi,Yes
+XKW126,how are you,Yes
+VSZ410,hi,Yes
+VSZ410,are you happy,Yes
+VSZ410,hi,Yes
+VSZ410,hello,Yes
+ECJ766,hi,Yes
+ECJ766,hello,Yes
+AMX950,hi,Yes
+AMX950,hello,Yes
+AMX950,how are you,Yes
+LGG749,how are you,Yes
+LGG749,how are you,Yes
+LGG749,how are you,Yes
+LGG749,how are you,Yes
+LGG749,nice,Yes
+LGG749,nice,Yes
+LGG749,hi,Yes
+LGG749,how are you ?,Yes
+LGG749,how are you ?,Yes
+LGG749,hi,Yes
+LGG749,hi how are you,Yes
+LGG749,d,Yes
+LGG749,hi,Yes
+ERK134,hi,Yes
+ERK134,how are you,Yes
+ERK134,noncence,Yes
+OGI864,hi,Yes
+OGI864,how are you ,Yes
+OGI864,how are you ,Yes
+OGI864,hi,Yes
+OGI864,hi,Yes
+ZNU433,hi,"If you have a stomachache or digestive discomfort, it's important to stay hydrated and avoid foods that may irritate your stomach. You can try over-the-counter remedies such as antacids or anti-diarrheal medications. If your symptoms persist for more than a day or are severe, you should see a doctor."
+ZNU433,cough,"If you have a mild headache, you can try resting in a dark, quiet room or using a cold compress on your forehead. Over-the-counter pain relievers like ibuprofen or acetaminophen can also help. If your headache is severe or persistent, or if it's accompanied by other symptoms such as nausea, vomiting or sensitivity to light, you should see a doctor."
+ZNU433,cold,"You should rest and drink plenty of fluids. Take a fever reducer like acetaminophen or ibuprofen, and monitor your temperature regularly. If your fever persists for more than three days or reaches a dangerous level, seek medical attention immediately."
+ZNU433,fever,"You should rest and drink plenty of fluids. Take a fever reducer like acetaminophen or ibuprofen, and monitor your temperature regularly. If your fever persists for more than three days or reaches a dangerous level, seek medical attention immediately."
+ZNU433,hi,"If you have a stomachache or digestive discomfort, it's important to stay hydrated and avoid foods that may irritate your stomach. You can try over-the-counter remedies such as antacids or anti-diarrheal medications. If your symptoms persist for more than a day or are severe, you should see a doctor."
+ZNU433,hi,"If you have a stomachache or digestive discomfort, it's important to stay hydrated and avoid foods that may irritate your stomach. You can try over-the-counter remedies such as antacids or anti-diarrheal medications. If your symptoms persist for more than a day or are severe, you should see a doctor."
+IKG506,I feel nauseous,"If you have a stomachache or digestive discomfort, it's important to stay hydrated and avoid foods that may irritate your stomach. You can try over-the-counter remedies such as antacids or anti-diarrheal medications. If your symptoms persist for more than a day or are severe, you should see a doctor."
+IKG506,morning i wake up and now i am feeling stomach pain,Seek medical attention immediately. Pneumonia can be a serious condition that requires antibiotics and hospitalization.
+IKG506,morning i wake up and now i am feeling stomach pain,Seek medical attention immediately. Pneumonia can be a serious condition that requires antibiotics and hospitalization.
+IKG506,i got mild fever ,Seek medical attention immediately. Pneumonia can be a serious condition that requires antibiotics and hospitalization.
+IKG506,I feel hot and cold,"You should rest and drink plenty of fluids. Take a fever reducer like acetaminophen or ibuprofen, and monitor your temperature regularly. If your fever persists for more than three days or reaches a dangerous level, seek medical attention immediately."
+IKG506,I feel hot and cold,"You should rest and drink plenty of fluids. Take a fever reducer like acetaminophen or ibuprofen, and monitor your temperature regularly. If your fever persists for more than three days or reaches a dangerous level, seek medical attention immediately."
+IKG506,hi,"Try using a humidifier and taking over-the-counter decongestants. You can also try saline nasal sprays or irrigations. If your symptoms last longer than a week or are accompanied by a high fever, seek medical attention."
+SVM125,hi,"Try using a humidifier and taking over-the-counter decongestants. You can also try saline nasal sprays or irrigations. If your symptoms last longer than a week or are accompanied by a high fever, seek medical attention."
+SVM125,how are you?,"Try to rest and drink plenty of fluids. You can also try over-the-counter cough medicine or inhalers. If your symptoms persist for more than a few days or are severe, seek medical attention."
+SVM125,how are you?,"Try to rest and drink plenty of fluids. You can also try over-the-counter cough medicine or inhalers. If your symptoms persist for more than a few days or are severe, seek medical attention."
+SVM125,little fever,Seek medical attention immediately. Pneumonia can be a serious condition that requires antibiotics and hospitalization.
+BXY524,hi,"Try using a humidifier and taking over-the-counter decongestants. You can also try saline nasal sprays or irrigations. If your symptoms last longer than a week or are accompanied by a high fever, seek medical attention."
+TZH252,hi,"Try using a humidifier and taking over-the-counter decongestants. You can also try saline nasal sprays or irrigations. If your symptoms last longer than a week or are accompanied by a high fever, seek medical attention."
+TZH252,I have a high temperature,"You should rest and drink plenty of fluids. Take a fever reducer like acetaminophen or ibuprofen, and monitor your temperature regularly. If your fever persists for more than three days or reaches a dangerous level, seek medical attention immediately."
+TZH252,I have a cough,"If your cough is due to a cold or flu, get plenty of rest and drink fluids to help your body fight the infection. You can also try cough drops or lozenges to soothe your throat. If your cough is persistent or accompanied by other symptoms such as fever, chest pain or difficulty breathing, you should see a doctor."
+TZH252,how are you,"Try to rest and drink plenty of fluids. You can also try over-the-counter cough medicine or inhalers. If your symptoms persist for more than a few days or are severe, seek medical attention."
+XVD209,"My child has a high temperature, what should I do?","If your cough is due to a cold or flu, get plenty of rest and drink fluids to help your body fight the infection. You can also try cough drops or lozenges to soothe your throat. If your cough is persistent or accompanied by other symptoms such as fever, chest pain or difficulty breathing, you should see a doctor."
+JZK407,"My child has a high temperature, what should I do?","Stay hydrated by drinking water, herbal teas, or clear broths to help soothe your throat."
+JZK407,I'm running a temperature,Rest is crucial for recovery. Make sure to get plenty of sleep.
+JZK407,Can acid reflux cause a chronic cough?,"Stay hydrated by drinking water, herbal teas, or clear broths to help soothe your throat."
+JZK407,Can workplace exposure contribute to bronchitis?,Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+JZK407,I have sinusitis and a cough with yellow or green mucus,"Keep a headache diary to track patterns, triggers, and the effectiveness of remedies."
+JZK407,Is it safe to fly with an ear infection?,Ear infections can occur in adults; consult with a healthcare professional for proper evaluation and care.
+JPF392,Is it safe to fly with an ear infection?,Ear infections can occur in adults; consult with a healthcare professional for proper evaluation and care.
+JPF392,My bronchitis symptoms worsen at night,Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+JPF392,Is it safe to fly with sinusitis?,Tooth pain can be associated with sinusitis; consult with a healthcare professional for proper evaluation.
+JBV736,hi,Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+JBV736,,Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+JBV736,how are you,"Avoid fatty, spicy, or greasy foods that may aggravate your stomachache."
+QYJ094,hi,Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+QYJ094,,Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+QYJ094,My forehead feels warm,"Pneumonia can be contagious, especially in the early stages; practice good hygiene to prevent spreading the infection."
+QYJ094,Is it common for ear infections to cause dizziness?,Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+QYJ094,hi,Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+GHM582,"Can skin cancer be caused by exposure to artificial UV sources, such as tanning beds?",Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+THY453,"Can skin cancer be caused by exposure to artificial UV sources, such as tanning beds?",Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+THY453,/home/admin1/Documents/2023/skin_cancer_detection/ai_chatbot_medical/Chatbot_Keras-main/intents2.json /home/admin1/Documents/2023/skin_cancer_detection/ai_chatbot_medical/Chatbot_Keras-main/tokenizer.pickle,Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+BGW700,hi,Rest is crucial for recovery from bronchitis; listen to your body and avoid strenuous activities.
+PIV335,/home/admin1/Documents/2023/skin_cancer_detection/model_resnet50.h5,Tooth pain can be associated with sinusitis; consult with a healthcare professional for proper evaluation.
+PIV335,What is the connection between exposure to artificial UV sources and the development of skin cancer?,"Yes, exposure to artificial UV sources like tanning beds or sunlamps increases the risk of skin cancer, including melanoma."
+PIV335,What is the connection between exposure to artificial UV sources and the development of skin cancer?,"Yes, exposure to artificial UV sources like tanning beds or sunlamps increases the risk of skin cancer, including melanoma."
+PIV335,What are the approximate annual mortality rates attributed to skin cancer worldwide?,"Skin cancer causes approximately 65,000 deaths annually globally, with melanoma accounting for a significant proportion of these fatalities."
+PIV335,How do yearly statistics on skin cancer reflect gender disparities?,"Men tend to have higher yearly rates of skin cancer diagnoses, particularly in non-melanoma skin cancers, attributed partly to occupational sun exposure and lower sun protection practices compared to women."
+EKX662,hi,Hello! How can I assist you today?
+EKX662,is there any rule for wages ,Hello! How can I assist you today?
+EKX662,"What details are captured in the register of persons employed, including age, sex, and address?",Mine safety rules are essential guidelines to ensure the well-being of workers and prevent accidents in mining operations.
+EKX662,What are the hours and limitations of employment?,Mine safety rules are essential guidelines to ensure the well-being of workers and prevent accidents in mining operations.
+EKX662,/home/admin1/Documents/2023/coalbot/Chatbot_Keras-main/tokenizer.pickle,"Goodbye! If you have more questions, feel free to ask."
+EKX662,What are the hours and limitations of employment?,Mine safety rules are essential guidelines to ensure the well-being of workers and prevent accidents in mining operations.
+VCA112,hi,Hello! How can I assist you today?
+VCA112,bye,"Goodbye! If you have more questions, feel free to ask."
+VCA112,What are different rules in the mining industry?,"Some key rules in the mining industry include:
+1. The Mineral Concession Rules, 1960
+2. The Mineral Conservation and Development Rules, 1988
+3. The Mines and Minerals (Development and Regulation) Act, 1957
+4. The Granite Conservation and Development Rules, 1999"
+VCA112,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+XNG364,hi,Hello! How can I assist you today?
+XNG364,"What is the Coal Mines Act, 1952?","The Coal Mines Act, 1952, is a legislation enacted to regulate the working conditions of coal mine workers."
+XNG364,Can you explain the leave with wages policy in mines?,"Every person employed in a mine who has completed a calendar year service therein shall be allowed, during the subsequent calendar year, leave with wages calculated:
+· in the case of a person employed below ground at the rate of 1 day for every 15 days of work performed by him,
+· in any other case, at the rate of 1 day for every 20 days of work performed by him/her.
+The owner, agent, or manager of every mine shall maintain, in respect of every employee thereof, a record of leave with wages in Form G and H."
+XNG364,Can you explain the leave with wages policy in mines?,"Every person employed in a mine who has completed a calendar year service therein shall be allowed, during the subsequent calendar year, leave with wages calculated:
+· in the case of a person employed below ground at the rate of 1 day for every 15 days of work performed by him,
+· in any other case, at the rate of 1 day for every 20 days of work performed by him/her.
+The owner, agent, or manager of every mine shall maintain, in respect of every employee thereof, a record of leave with wages in Form G and H."
+XNG364,hi,Hello! How can I assist you today?
+XNG364,hi,Hello! How can I assist you today?
+XNG364,bye ,"Goodbye! If you have more questions, feel free to ask."
+XNG364,good bye,"Goodbye! If you have more questions, feel free to ask."
+XNG364,hi,Hello! How can I assist you today?
+QYT242,hi,Hello! How can I assist you today?
+QYT242,my salary is less paid,"Goodbye! If you have more questions, feel free to ask."
+QYT242,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+TNX194,hi,Hello! How can I assist you today?
+KFV473,hi,Hello! How can I assist you today?
+KFV473,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+NXE940,hi,Hello! How can I assist you today?
+NXE940,how are you,Hello! How can I assist you today?
+KEX222,hi,Hello! How can I assist you today?
+KEX222,hi,Hello! How can I assist you today?
+XZE159,hi,Hello! How can I assist you today?
+JOT277,hi,Hello! How can I assist you today?
+WEH114,hi,Hello! How can I assist you today?
+WEH114,hi,Hello! How can I assist you today?
+YMC481,hi,Hello! How can I assist you today?
+YMC481,hi,Hello! How can I assist you today?
+YMC481,hi,Hello! How can I assist you today?
+YMC481,hello,Hello! How can I assist you today?
+KDH813,hi,Hello! How can I assist you today?
+KDH813,hi,Hello! How can I assist you today?
+IMB313,hi,Hello! How can I assist you today?
+REM155,hi,Hello! How can I assist you today?
+REM155,how are ,Hello! How can I assist you today?
+REM155,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+ODM541,hi,Hello! How can I assist you today?
+RXK451,What are the hours and limitations of employment?hi,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+RHO235,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+KDK763,hi,Hello! How can I assist you today?
+JTI776,hi,Hello! How can I assist you today?
+ERI973,hi,Hello! How can I assist you today?
+ERI973,hello,Hello! How can I assist you today?
+ERI973,hi,Hello! How can I assist you today?
+GYK365,hi,Hello! How can I assist you today?
+VVV578,hi,Hello! How can I assist you today?
+VVV578,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+RLV368,hi,Hello! How can I assist you today?
+RLV368,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+RLV368,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+BER764,hi,Hello! How can I assist you today?
+ISS223,hi,Hello! How can I assist you today?
+KAA848,hi,Hello! How can I assist you today?
+KWP066,hi,Hello! How can I assist you today?
+KWP066,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+KWP066,hi ok,Hello! How can I assist you today?
+KWP066,how are you,Hello! How can I assist you today?
+KWP066,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+CTP604,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+CTP604,What is the latest news in the mining industry?,The latest news in the mining industry includes an assessment of trends revealing challenges related to rising supply costs and changing demand.
+IRL289,hi,Hello! How can I assist you today?
+IRL289,hi,Hello! How can I assist you today?
+IRL289,hi,Hello! How can I assist you today?
+IRL289,Tell me about the recent developments in the mining industry.,The latest news in the mining industry includes an assessment of trends revealing challenges related to rising supply costs and changing demand.
+ROR991,Tell me about the recent developments in the mining industry.,The latest news in the mining industry includes an assessment of trends revealing challenges related to rising supply costs and changing demand.
+ROR991,hi,Hello! How can I assist you today?
+ROR991,hi,Hello! How can I assist you today?
+MAH809,hi,Hello! How can I assist you today?
+QPH361,hi,Hello! How can I assist you today?
+QPH361,hi,Hello! How can I assist you today?
+QPH361,hi,Hello! How can I assist you today?
+QPH361,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+QPH361,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+QPH361,hi,Hello! How can I assist you today?
+XKY500,hi,Hello! How can I assist you today?
+XKY500,hello,Hello! How can I assist you today?
+XKY500,hi,Hello! How can I assist you today?
+XKY500,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+XKY500,hi,Hello! How can I assist you today?
+XKY500,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+XGI482,hi,Hello! How can I assist you today?
+XGI482,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+XGI482,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+XGI482,hi,Hello! How can I assist you today?
+XGI482,hi,Hello! How can I assist you today?
+XGI482,hi,Hello! How can I assist you today?
+YBS637,hi,Hello! How can I assist you today?
+YBS637,hi,Hello! How can I assist you today?
+YBS637,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+YBS637,hi,Hello! How can I assist you today?
+YBS637,hi,Hello! How can I assist you today?
+YBS637,hi,Hello! How can I assist you today?
+YBS637,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+YBS637,hi,Hello! How can I assist you today?
+YBS637,hi,Hello! How can I assist you today?
+YBS637,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+YBS637,hi,Hello! How can I assist you today?
+YBS637,hi,Hello! How can I assist you today?
+FEG741,hi,Hello! How can I assist you today?
+FEG741,hi,Hello! How can I assist you today?
+FEG741,hi,Hello! How can I assist you today?
+FEG741,hi,Hello! How can I assist you today?
+FEG741,hi,Hello! How can I assist you today?
+FEG741,hi,Hello! How can I assist you today?
+FEG741,hi,Hello! How can I assist you today?
+FEG741,hi,Hello! How can I assist you today?
+GYP386,hi,Hello! How can I assist you today?
+GYP386,hi,Hello! How can I assist you today?
+GYP386,hi,Hello! How can I assist you today?
+FJN235,hi,Hello! How can I assist you today?
+FJN235,hi,Hello! How can I assist you today?
+FJN235,hi,Hello! How can I assist you today?
+FJN235,hi,Hello! How can I assist you today?
+FJN235,hi,Hello! How can I assist you today?
+QAH976,hi,Hello! How can I assist you today?
+QAH976,,Hello! How can I assist you today?
+QAH976,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+QAH976,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+QAH976,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+QAH976,hi,Hello! How can I assist you today?
+QAH976,hi,Hello! How can I assist you today?
+QAH976,hi,Hello! How can I assist you today?
+QMX506,hi,Hello! How can I assist you today?
+QMX506,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+QMX506,,Hello! How can I assist you today?
+QMX506,,Hello! How can I assist you today?
+NIR090,,Hello! How can I assist you today?
+LTB541,hi,Hello! How can I assist you today?
+IUF681,,Hello! How can I assist you today?
+KPC695,,Hello! How can I assist you today?
+KPC695,hi,Hello! How can I assist you today?
+DAL097,hi,Hello! How can I assist you today?
+GXP663,hi,Hello! How can I assist you today?
+GXP663,hi,Hello! How can I assist you today?
+WBB703,hi how are you,Hello! How can I assist you today?
+WBB703,I want to know the rules of minors working,"Some key rules in the mining industry include:
+1. The Mineral Concession Rules, 1960
+2. The Mineral Conservation and Development Rules, 1988
+3. The Mines and Minerals (Development and Regulation) Act, 1957
+4. The Granite Conservation and Development Rules, 1999"
+WBB703,hi how are you,Hello! How can I assist you today?
+WBB703,what is the timing duration that a minor should,"Where any person works more than the normal prescribed hours, he should be paid for his overtime at the rate which is twice than the normal wages paid to him for the work. The register of overtime wages shall be maintained in Form I."
+NOB905,hi,Hello! How can I assist you today?
+NOB905,let me know about the act 1952 about Minor,"Some key rules in the mining industry include:
+1. The Mineral Concession Rules, 1960
+2. The Mineral Conservation and Development Rules, 1988
+3. The Mines and Minerals (Development and Regulation) Act, 1957
+4. The Granite Conservation and Development Rules, 1999"
+NOB905,hi how are you,Hello! How can I assist you today?
+NOB905,can I know more about 1952 act,"Some key rules in the mining industry include:
+1. The Mineral Concession Rules, 1960
+2. The Mineral Conservation and Development Rules, 1988
+3. The Mines and Minerals (Development and Regulation) Act, 1957
+4. The Granite Conservation and Development Rules, 1999"
+NOB905,hi,Hello! How can I assist you today?
+NOB905,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+NOB905,hi how are you,Hello! How can I assist you today?
+VHC196,hi,Hello! How can I assist you today?
+QMJ612,hi,Hello! How can I assist you today?
+QMJ612,hi,Hello! How can I assist you today?
+AWF586,hi,Hello! How can I assist you today?
+MON634,hi,Hello! How can I assist you today?
+MON634,hi how are you,Hello! How can I assist you today?
+MON634,hi,Hello! How can I assist you today?
+MON634,hi,Hello! How can I assist you today?
+MON634,hi,Hello! How can I assist you today?
+MON634,hi,Hello! How can I assist you today?
+MON634,hi,Hello! How can I assist you today?
+MON634,hi,Hello! How can I assist you today?
+MON634,I want to know rules about 1952 minor act,"Some key rules in the mining industry include:
+1. The Mineral Concession Rules, 1960
+2. The Mineral Conservation and Development Rules, 1988
+3. The Mines and Minerals (Development and Regulation) Act, 1957
+4. The Granite Conservation and Development Rules, 1999"
+MON634,hi,Hello! How can I assist you today?
+MON634,hi,Hello! How can I assist you today?
+MON634,how many hours I should work in Mining industry,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+MER900,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+MER900,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+MER900,What are the hours and limitations of employment?,"No person shall be allowed to work more than 9 hours a day and more than 48 hours a week in a mine. Additionally, a person shall not be allowed to work more than 6 days in a week, ensuring at least 1 day of rest."
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+MER900,hi,Hello! How can I assist you today?
+WGG678,Tell me about common plant diseases and their symptoms.,please upload the  clear image of leaf : 
+WGG678,Tell me about common plant diseases and their symptoms.,please upload the  clear image of leaf : 
+WGG678,Tell me about common plant diseases and their symptoms.,please upload the  clear image of leaf : 
+WGG678,hi I want to know how can I identify,please upload the  clear image of leaf : 
+WGG678,Harendra how can I choose fertilizer that are well suit,"Some key rules in the mining industry include:
+1. The Mineral Concession Rules, 1960
+2. The Mineral Conservation and Development Rules, 1988
+3. The Mines and Minerals (Development and Regulation) Act, 1957
+4. The Granite Conservation and Development Rules, 1999"
+WGG678,tell me about plant diseases and their symptoms,please upload the  clear image of leaf : 
+MZS147,Tell me about fertilizers that are suitable for terrace farming in my soil and climate.,please provide the details we need we will recommend the better fertliser for your soil: 
+MZS147,tell me about fertilizers that are suitable for terrace,"When a person is injured at work, they may be entitled to workers' compensation benefits."
+MZS147,tell me about fertilizers that are suitable for terrace,"When a person is injured at work, they may be entitled to workers' compensation benefits."
+MZS147,tell me about fertilizers that are suitable for terrace,"When a person is injured at work, they may be entitled to workers' compensation benefits."
+MZS147,what are fertilizer should I use for my soil type,please provide the details we need we will recommend the better fertliser for your soil: 
+ERO267,hi,Please provide details asked  I Will help you with yield 
+ERO267,hi,Please provide details asked  I Will help you with yield 
+ZKO141,What are the visual indicators of bacterial infections in plants?,"When a person is injured at work, they may be entitled to workers' compensation benefits."
+ZKO141,Can you recommend effective measures for controlling downy mildew in crops?,please upload the  clear image of leaf : 
+QHU952,Tell me about slow-release fertilizers and their suitability for my soil and climate.,please provide the details we need we will recommend the better fertliser for your soil: 
+QHU952,How does soil quality impact the potential crop yield?,Please provide details asked  I Will help you with yield 
+EBY694,How does temperature affect crop yield?,Please provide details asked  I Will help you with yield 
+ILX133,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+XMU936,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+EKX394,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+HBA608,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+TAH123,"Based on my field conditions, what could be the expected yield?",Please provide details asked  I Will help you with yield 
+FVE699,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+UQS663,what role does humidity play in crop yield prediction,"('Please provide details asked  I Will help you with yield ', 'crop_yield_prediction')"
+UQS663,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+RPG190,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+KDR363,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+ZLR412,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+DAY273,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+KSC587,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+PNS623,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+RYB142,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+UBF153,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+KFU651,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+EFI820,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+NIZ618,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+GPH013,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+HSE103,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+DOL646,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+KIV265,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+JHB082,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+WBS187,How can I determine the best crop to grow based on soil and weather parameters?,please provide details here we will recommend the  better crop
+PHZ263,Can you recommend the best crop based on my soil type and weather parameters?,please provide details here we will recommend the  better crop
+IZM436,Can you recommend the best crop based on my soil type and weather parameters?,please provide details here we will recommend the  better crop
+IZM436,How can I choose crops that are well-suited for organic farming in my soil?,please provide details here we will recommend the  better crop
+ZWJ502,How can I choose crops that are well-suited for organic farming in my soil?,please provide details here we will recommend the  better crop
+GZI098,How can I choose crops that are well-suited for organic farming in my soil?,please provide details here we will recommend the  better crop
+GZI098,i want beeter crop recommended for my soil,please provide the details we need we will recommend the better fertliser for your soil: 
+GZI098,i want beeter crop recommended for my soil,please provide the details we need we will recommend the better fertliser for your soil: 
+GZI098,i want better crop recomended for my soil,please provide the details we need we will recommend the better fertliser for your soil: 
+GZI098,i want better crop recomended for my soil,please provide the details we need we will recommend the better fertliser for your soil: 
+HEF503,What role does humidity play in determining crop yield?,Please provide details asked  I Will help you with yield 
+HEF503,i want better crop recommendaded for my soil what should i do ?,please upload the  clear image of leaf : 
+HEF503,Can you suggest a crop that is well-suited to my soil and climate?,please provide details here we will recommend the  better crop
+KKZ910,I need advice on choosing the right fertilizer for my farm. Any recommendations?,please provide the details we need we will recommend the better fertliser for your soil: 
+WUH303,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+IOW894,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+QEH531,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+VOU563,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+OIY778,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+KMX143,I want to learn about common diseases affecting fruit-bearing plants. Any information?,please upload the  clear image of leaf : 
+TCE885,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+TCE885,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+TQG890,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+AXF221,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+YDJ329,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+TZT025,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+BZL605,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+VQL474,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+KDS808,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+ZLR084,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+FHQ636,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+FHQ636,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+POS532,How does watering practices impact the susceptibility of plants to diseases?,please upload the  clear image of leaf : 
+KUL989,How does temperature affect crop yield?,Please provide details asked  I Will help you with yield 
+KUL989,What crop should I grow in my field considering the soil and weather conditions?,please provide details here we will recommend the  better crop
+KUL989,what feriliser i should use for my field ?,please provide the details we need we will recommend the better fertliser for your soil: 
+STX790,What crop should I grow in my field considering the soil and weather conditions?,please provide details here we will recommend the  better crop
+STX790,Which fertilizer types are suitable for my soil characteristics?,please provide the details we need we will recommend the better fertliser for your soil: 
+OXS652,from fertiliser_recommendation.fertiliser_recommendation import recondation_fertiliser_fn,Please provide details asked  I Will help you with yield 
+OXS652,How can I choose fertilizers that are suitable for organic farming in my soil?,please provide the details we need we will recommend the better fertliser for your soil: 
+OXS652,How can I identify diseases in my plants?,please upload the  clear image of leaf : 
+EQS992,can i know what will be my total crop yield ? ,Please provide details asked  I Will help you with yield 
+EQS992,i am growing groundnut what will be total yield i am cultivating in 3 hectares ?,Please provide details asked  I Will help you with yield 
+EQS992,my field is having sandy soil i am cultivating paddy in 3 hectares what will be the total yield ?,Please provide details asked  I Will help you with yield 
+EQS992,please recommend me better crop i am having silt soil and 32-34 tempearature ,Please provide details asked  I Will help you with yield 
+EQS992,i have red soil with less rain fall please suggest me better crop ?,please provide the details we need we will recommend the better fertliser for your soil: 
+EQS992,i have 4 hectare of black soil with good nitrogen content suggest me more profitable crop .,please provide the details we need we will recommend the better fertliser for your soil: 
+EQS992,i have 4 hectare of black soil with good nitrogen content recommend me me crop .,please provide the details we need we will recommend the better fertliser for your soil: 
+EQS992,my soil contains very less nitrogen .i want to grow paddy please recommend the best fertliser ,Please provide details asked  I Will help you with yield 
+EQS992,my soil contains very less nitrogen  recommend the best fertiliser ,"Some key rules in the mining industry include:
+1. The Mineral Concession Rules, 1960
+2. The Mineral Conservation and Development Rules, 1988
+3. The Mines and Minerals (Development and Regulation) Act, 1957
+4. The Granite Conservation and Development Rules, 1999"
+EQS992,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+EQS992,my soil contains very less nitrogen .i want to grow paddy please recommend the best fertliser ,Please provide details asked  I Will help you with yield 
+EQS992,"How does soil pH impact fertilizer selection, and what fertilizer is best for my soil pH?",please provide the details we need we will recommend the better fertliser for your soil: 
+EQS992,can i know what will be my total yield ?,Please provide details asked  I Will help you with yield 
+EYG394,can i know what will be my total yield ?,Please provide details asked  I Will help you with yield 
+EYG394,Tell me about precision agriculture techniques for predicting crop yield.,Please provide details asked  I Will help you with yield 
+EYG394,What crop should I grow in my field considering the soil and weather conditions?,please provide details here we will recommend the  better crop
+EYG394,How can I choose crops that are well-adapted to the monsoon season and my soil type?,please provide the details we need we will recommend the better fertliser for your soil: 
+EYG394,What crops are recommended for my region's soil and temperature?,please provide details here we will recommend the  better crop
+EYG394,What fertilizer should I use for my soil type?,please provide the details we need we will recommend the better fertliser for your soil: 
+EYG394,How can I identify diseases in my plants?,please upload the  clear image of leaf : 
+WLN598,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+LAL208,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+LAL208,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+LAL208,What are the hours and limitations of employment?,"Some key rules in the mining industry include:
+1. The Mineral Concession Rules, 1960
+2. The Mineral Conservation and Development Rules, 1988
+3. The Mines and Minerals (Development and Regulation) Act, 1957
+4. The Granite Conservation and Development Rules, 1999"
+YFG350,What are the hours and limitations of employment?,Please provide details asked  I Will help you with yield 
+LMH872,hi,please provide details here we will recommend the  better crop
+XKJ251,hi,please provide details here we will recommend the  better crop
+XKJ251,hi,please provide details here we will recommend the  better crop
+JZR363,hihi,Hello!
+ESP514,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+ESP514,Can you recommend the best fertilizer for my specific soil conditions?,please provide the details we need we will recommend the better fertliser for your soil: 
+DPB565,Can you recommend the best fertilizer for my specific soil conditions?,"['please provide the details we need we will recommend the better fertliser for your soil: ', 'Please provide the details we need, and we will recommend the better fertilizer for your soil.', 'To recommend the best fertilizer, we need specific details about your soil. Could you please provide them?', 'For accurate fertilizer recommendation, we require more information about your soil. Can you please provide the necessary details?', 'To suggest the most suitable fertilizer, we need to know more about your soil conditions. Could you please provide the required details?', 'Understanding your soil is crucial for recommending the right fertilizer. Please provide details so we can assist you better.', 'To offer tailored fertilizer recommendations, we need additional details about your soil. Could you provide them?', 'To assist you in selecting the right fertilizer, we need details about your soil characteristics. Can you provide this information?', 'For personalized fertilizer recommendations, we require specific details about your soil. Please provide them so we can help you better.', 'To ensure the best fertilizer recommendation, we need more information about your soil. Please provide the necessary details.', 'Your soil type is essential for selecting the appropriate fertilizer. Can you please provide details about your soil so we can assist you?', 'We need additional information about your soil to recommend the most suitable fertilizer. Please provide the required details.', 'For accurate fertilizer recommendation, we need to know more about your soil conditions. Can you please provide the necessary details?']"
+WIT575,Can you recommend the best fertilizer for my specific soil conditions?,"['please provide the details we need we will recommend the better fertliser for your soil: ', 'Please provide the details we need, and we will recommend the better fertilizer for your soil.', 'To recommend the best fertilizer, we need specific details about your soil. Could you please provide them?', 'For accurate fertilizer recommendation, we require more information about your soil. Can you please provide the necessary details?', 'To suggest the most suitable fertilizer, we need to know more about your soil conditions. Could you please provide the required details?', 'Understanding your soil is crucial for recommending the right fertilizer. Please provide details so we can assist you better.', 'To offer tailored fertilizer recommendations, we need additional details about your soil. Could you provide them?', 'To assist you in selecting the right fertilizer, we need details about your soil characteristics. Can you provide this information?', 'For personalized fertilizer recommendations, we require specific details about your soil. Please provide them so we can help you better.', 'To ensure the best fertilizer recommendation, we need more information about your soil. Please provide the necessary details.', 'Your soil type is essential for selecting the appropriate fertilizer. Can you please provide details about your soil so we can assist you?', 'We need additional information about your soil to recommend the most suitable fertilizer. Please provide the required details.', 'For accurate fertilizer recommendation, we need to know more about your soil conditions. Can you please provide the necessary details?']"
+JJV271,Can you recommend the best fertilizer for my specific soil conditions?,"To assist you in selecting the right fertilizer, we need details about your soil characteristics. Can you provide this information?"
+JJV271,provide me better crop for soil,"To estimate your crop yield accurately, I'll need information about your soil parameters such as pH, nutrient levels, and texture."
+JJV271,Crop suggestions?,Details about soil essential.
+JJV271,What crop should I grow in my field considering the soil and weather conditions?,"For tailored suggestions, share specifics."
+ITX085,,"To assist you in selecting the right fertilizer, we need details about your soil characteristics. Can you provide this information?"
+ELN698,,Your soil type is essential for selecting the appropriate fertilizer. Can you please provide details about your soil so we can assist you?
+GCS941,Can you recommend the best fertilizer for my specific soil conditions?,We need additional information about your soil to recommend the most suitable fertilizer. Please provide the required details.
+KCM301,What role does humidity play in determining crop yield?,"Estimating crop yield requires understanding your soil characteristics. Can you provide details about your soil parameters like pH, nutrient levels, and texture?"
+KCM301,Can you recommend the best fertilizer for my specific soil conditions?,"To recommend the best fertilizer, we need specific details about your soil. Could you please provide them?"
+NSG198,Crop suggestions?,Details needed for better suggestions.
+GIQ029,Crop suggestions?,Share drought & soil info.
+QDH948,Crop suggestions?,Soil pH & other details needed.
+RAF844,Pest-resistant crops?,Low rainfall & soil info needed.
+RAF844,Selecting fertilizers for promoting crop growth?,"For personalized fertilizer recommendations, we require specific details about your soil. Please provide them so we can help you better."
+BME808,Predicted yield based on my soil?,"In order to predict your crop yield effectively, it's important to have information about your soil. Can you provide details such as pH, nutrient levels, and texture?"
+BME808,Predicted yield based on my soil?,"For an accurate prediction of your crop yield, I need information about your soil. Please provide details such as pH, nutrient levels, and texture."
+CJQ338,Fertilizer that complements my soil?,"Please provide the details we need, and we will recommend the better fertilizer for your soil."
+CJQ338,Advice on choosing the right fertilizer?,"For accurate fertilizer recommendation, we require more information about your soil. Can you please provide the necessary details?"
+CJQ338,What's best for my farm?,Details about soil essential.
+DRD467,Can you recommend the best fertilizer for my specific soil conditions?,Your soil type is essential for selecting the appropriate fertilizer. Can you please provide details about your soil so we can assist you?
+TBM920,Can you recommend the best fertilizer for my specific soil conditions?,The best fertiliser you need to use is     Urea
+NYH355,Can you recommend the best fertilizer for my specific soil conditions?,The best fertiliser you need to use is     Urea
+EPP569,Can you recommend the best fertilizer for my specific soil conditions?,"To suggest the most suitable fertilizer, we need to know more about your soil conditions. Could you please provide the required details?"
+IBB321,Can you recommend the best fertilizer for my specific soil conditions?,The best fertiliser you need to use is     Urea
+IBB321,What crops are recommended for my region's soil and temperature?,The Best Plant That you can Cultivate is   mothbeans
+NTT041,Can you recommend the best fertilizer for my specific soil conditions?,The best fertiliser you need to use is     Urea
+NTT041,How can I determine the best crop to grow based on soil and weather parameters?,The Best Plant That you can Cultivate is   mothbeans
+JPA337,What are the common signs of plant diseases?,The plant is having this disease   Apple___Apple_scab
+AKN876,Can you help me diagnose diseases affecting my crops?,The plant is having this disease   Apple___Apple_scab
+LGQ142,Can you help me diagnose diseases affecting my crops?,The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+LGP483,What are the common signs of plant diseases?,The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+QTN784,Can you help me diagnose diseases affecting my crops?,The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+SMN685,What steps should I take to identify diseases in my plants?,The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+XZG331,How can I manage powdery mildew in my plants?,The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+YQH325,How can I manage powdery mildew in my plants?,The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+YQH325,How can I manage powdery mildew in my plants?,The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+ALE112,"What are the symptoms of soil-borne diseases, and how can I address them?",The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+TQU123,How can I manage powdery mildew in my plants?,The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+OWO405,How can I manage powdery mildew in my plants?,The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+XJO145,How can I manage powdery mildew in my plants?,The plant is having this disease   Tomato___Tomato_Yellow_Leaf_Curl_Virus
+CME780,How can I manage powdery mildew in my plants?,The plant is having this disease   Apple___healthy
+CME780,How can I manage powdery mildew in my plants?,The plant is having this disease   Corn___healthy
+DET153,hi,The best fertiliser you need to use is     Urea
+ZFN829,What fertilizer should I use for my soil type?,"For personalized fertilizer recommendations, we require specific details about your soil. Please provide them so we can help you better."
+TKT855,What fertilizer should I use for my soil type?,"To assist you in selecting the right fertilizer, we need details about your soil characteristics. Can you provide this information?"
+TKT855,Impact of soil pH on crops?,Your soil & climate data is crucial.
+TKT855,hi,"To ensure the best fertilizer recommendation, we need more information about your soil. Please provide the necessary details."
+YTA822,hi,Hey there! I'm here to lend a helping hand.
+YTA822,What are the APN setup steps?,"If you're unsure about any APN settings, it's best to contact your network operator for assistance."
+YTA822,hi,Hi! How's your day going so far?
+YTA822,How do I add or remove services from my plan?,"To add or remove services from your plan, log in to your account and access the plan customization option."
+DPJ600,How can I plan for elder care or assisted living expenses?,"Understand the financial implications of elder care, including potential costs for assisted living, nursing home care, medical expenses, and other related services, and plan accordingly to ensure financial stability."
+DPJ600,/home/admin1/Documents/2023/banking_financial_chatbot/chatbot_code/finalised/intents.json,"Hello, how can I assist you today?"
+DPJ600,How can I plan for elder care or assisted living expenses?,"Explore government programs or assistance for elder care expenses such as Medicaid, Veterans benefits, and long-term care insurance programs, and research eligibility criteria and application processes."
+FYZ701,How can I lower my student loan payments?,"Prioritize paying off student loans versus other debts based on interest rates, terms, and potential consequences of default. Focus on paying off high-interest debt first while maintaining minimum payments on other obligations."
+FYZ701,How can I lower my student loan payments?,"Avoid falling behind on your student loan payments by setting up automatic payments, communicating with your loan servicer if you encounter financial difficulties, and exploring options like deferment, forbearance, or income-driven repayment plans."
+PCJ626,I earn around 18 lakh per annum. How much should I consider investing in the stock market?,"When deciding how much to invest in the stock market, it's essential to consider your financial goals, risk tolerance, and overall financial situation. As a general guideline, financial experts often recommend investing between 10% to 20% of your annual income in stocks. However, this can vary based on individual circumstances. It's advisable to consult with a financial advisor to create an investment strategy tailored to your specific needs and goals."
+IZH500,"Given my salary of 7 lakh, what percentage of it should I consider investing in stocks?",You can invest 105677.66317543537 to your stock market and also please check with few other parameters before you invest.
+GZW277,I earn 5 lakh annually. How much home loan can I qualify for?,You can have home loan of 2000000  also please check other features before getting loans.
+GZW277,What should I do if I lose my job?,"Improve your skills while unemployed by taking online courses, attending workshops or seminars, volunteering in your field, pursuing certifications, and staying informed about industry trends and developments."
+DEE623,I earn 5 lakh annually. How should I allocate my income for general expenses?,You can Devide it  like .for education you can have 60893.11722735852. for health you can have 94336.07725670942.for housing you can use 111833.68069336745.for Savings/Investment you can use 54219.94430251722.for daily living expenses you can have 103013.80566244661.for Entertainment/Leisure you can have 14904.675798331802
+VDL580,I earn 5 lakh annually. How should I allocate my income for general expenses?,You can Devide it  like .for education you can have 66588. for health you can have 80478.for housing you can use 118200.for Savings/Investment you can use 52384.for daily living expenses you can have 105510.for Entertainment/Leisure you can have 22896
+DIP609,Hi. What can you help me with,"Explore government programs or assistance for elder care expenses such as Medicaid, Veterans benefits, and long-term care insurance programs, and research eligibility criteria and application processes."
+DIP609,hi,"Hi, nice to see you! How can I assist you today?"
+DIP609,My income is 25 lakhs. Help me split my expenses,"Begin planning for early retirement by calculating your retirement savings goal, estimating your expenses in retirement, and exploring strategies to increase savings and reduce debt."
+DIP609,My income is 4 lakhs. Split for my general expenditure,"Prepare for unexpected expenses by creating an emergency fund, reviewing insurance coverage, and budgeting for irregular expenses like car repairs or medical deductibles."
+DIP609,How should i allocate my income for general expenditure,"Calculate your retirement savings goal for early retirement by estimating your future expenses, factoring in inflation, and determining how much income you'll need to maintain your desired lifestyle."
+DIP609,I earn 5 lakh per annum. How should i budget my salary for general expenses,You can Devide it  like .for education you can have 50107. for health you can have 95599.for housing you can use 124942.for Savings/Investment you can use 55817.for daily living expenses you can have 120303.for Entertainment/Leisure you can have 12347
+DIP609,I earn 57 lakh per annum. How should i budget my salary for general expenses,You can Devide it  like .for education you can have 754800. for health you can have 1097173.for housing you can use 1194491.for Savings/Investment you can use 668982.for daily living expenses you can have 832789.for Entertainment/Leisure you can have 260991
+DIP609,I earn 57 lakh per annum. How should i split my salary for general expenses,You can Devide it  like .for education you can have 756428. for health you can have 873203.for housing you can use 1301739.for Savings/Investment you can use 620726.for daily living expenses you can have 864248.for Entertainment/Leisure you can have 248014
+DIP609,I earn 57 lakh per annum. How should i split my salary for general expenses,You can Devide it  like .for education you can have 747159. for health you can have 873989.for housing you can use 1177642.for Savings/Investment you can use 683044.for daily living expenses you can have 596284.for Entertainment/Leisure you can have 141834
+DIP609,How do i track my expenses?,You're welcome! Feel free to ask if you need anything else.
+QHJ268,How can one track their expenses,"Begin planning for early retirement by calculating your retirement savings goal, estimating your expenses in retirement, and exploring strategies to increase savings and reduce debt."
+QHJ268,How do I track my expenses?,"You're welcome! If there's anything else I can assist you with, please let me know."
+ALU347,how do i track my expenses,"Happy to help! If you have any more questions, feel free to ask."
+ALU347,Hi,"Hey, hope you're doing well. How may I assist you?"
+ALU347,Can you help me keep track of my spending?,"Risks of mismanaging windfall money include overspending, investing in high-risk assets, falling victim to scams or fraud, and not adequately planning for taxes or future financial needs."
+ALU347,What resources are available for student loan borrowers?,"Resources available for student loan borrowers include loan servicer websites, government websites like studentaid.gov, financial counseling services, and online communities or forums for peer support and advice."
+GNE271,How do i track my expenses,You're welcome! I'm here to help with any other questions you might have.
+GNE271,How do i track my expenses,Anytime! I'm here to help whenever you need assistance.
